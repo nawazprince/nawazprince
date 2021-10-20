@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Prince
 #### Software developer
 I'm from Bangladesh. I develop software on .NET framework.
-
+![Software developer](https://github.com/nawazprince/nawazprince/blob/master/msnet.png)
 Skills: ASP.NET / MVC / MVC Core/Blazor/Angular/JS / HTML / CSS
 
 
