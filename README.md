@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Prince
 #### Software developer
-![Software developer](https://github.com/nawazprince/nawazprince/blob/master/msnet.png)
+<img src="https://github.com/nawazprince/nawazprince/blob/master/msnet.png" height="300" width="500"/>
 
 I'm from Bangladesh. I develop software on .NET framework.
 
