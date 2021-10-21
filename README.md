@@ -4,7 +4,7 @@
 
 I'm from Bangladesh. I develop software on .NET framework.
 
-Skills: ASP.NET / MVC / MVC Core/Blazor/Angular/JS / HTML / CSS
+Skills: ASP.NET / MVC / MVC Core/ Blazor/ Angular / JS / HTML / CSS
 
 
 
