@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Prince
 #### Software developer
-![Software developer](https://github.com/nawazprince/nawazprince/blob/master/Services.png)
+![Software developer]
+[(https://github.com/nawazprince/nawazprince/blob/master/Services.png)](url)
 
 I'm from Bangladesh. I develop software on .NET framework.
 
