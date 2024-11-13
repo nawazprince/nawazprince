@@ -4,7 +4,7 @@
 I'm from Bangladesh. I am a software developer. I have been working with ASP.NET C# since 2019.
 
 
-Skills: Web Forms/ MVC / MVC Core/ Web API / ADO.NET/ Dapper / Entity Framework / MS SQL / JavaScript
+Skills: Web Forms / MVC / MVC Core / Web API / ADO.NET/ Dapper / Entity Framework / MS SQL / JavaScript
 
 
 
